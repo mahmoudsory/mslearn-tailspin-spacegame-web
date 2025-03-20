@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Azure Pipelines
+  my-personal-computer
 
 variables:
   buildConfiguration: 'Release'
